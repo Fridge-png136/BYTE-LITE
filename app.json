@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "(Byte ://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents).",
       "required": true,
       "value": ""
     },  
