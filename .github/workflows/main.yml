@@ -1,5 +1,5 @@
 const fs = require('fs');
-if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
+if (fs.existsSync('config.env')) require('dotenv').config({ path:[![.github/workflows/main.yml](https://github.com/Fridge-png136/BYTE-LITE/actions/workflows/main.yml/badge.svg)](https://github.com/Fridge-png136/BYTE-LITE/actions/workflows/main.yml)
 
 function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
